@@ -33,7 +33,7 @@ You can find *Repository URL* from the top of the repository
 
 # SetUp Git
 
-- "GIT-IT," an exclusive GitHub session organized by the FOSS Community of NSBM in collaboration with Women in FOSS NSBM.
+
 
 **Download Git**: 
 
