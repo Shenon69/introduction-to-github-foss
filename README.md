@@ -8,12 +8,11 @@ To install Git on your local computer, you need to [visit this link](https://git
 
 <br/>
 1. Go to a Directory that you need to clone your Repository
-
+   
 > Ex: `D:\React`
-
 <br/>
 2. Right click & open `Git bash here` if you are a *Windows* user or Open `Terminal` if you are a *Mac/Linux* user in that directory location.
-
+<br/>
 <br/>
 3. Type this command on it
 
