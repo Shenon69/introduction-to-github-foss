@@ -11,7 +11,7 @@ To install Git on your local computer, you need to [visit this link](https://git
 
 > Ex: `D:\React`
 
-<br/><br/>
+<br/>
 2. Right click & open `Git bash here` if you are a *Windows* user or Open `Terminal` if you are a *Mac/Linux* user in that directory location.
 
 <br/>
